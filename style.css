@@ -7,10 +7,13 @@
     color: white;
 }
 
+body{
+    padding-top: 50px;
+}
 .container{
     position: relative;
     background-color: #22122f;
-    max-width: 500px;
+    width: 500px;
     height: 500px;
     transform-style: preserve-3d;
     margin: 0 auto;
